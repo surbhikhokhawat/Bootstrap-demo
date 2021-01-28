@@ -75,11 +75,11 @@ body{
 background-color:  rgba(227, 255, 251, 0.904);;
 border-radius: 0% 100% 200% 100% / 50% 100% 20% 90%;
 }
-.services .col-md-4 i:hover{
+.services .col-md-4 i:hover {
     cursor: default;
     transform: rotate(360deg) scale(2);
     transition: all 0.5s ease-in-out 0s;
-}
+    }
 input[type=text] {
     width: 100%;
     padding: 12px 20px;
